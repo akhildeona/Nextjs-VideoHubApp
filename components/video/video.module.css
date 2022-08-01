@@ -1,0 +1,49 @@
+.textbox1 {
+  margin-top: 15%;
+  padding: 15px 15px;
+  width: 60%;
+  border-radius: 22px;
+  box-sizing: border-box;
+  border: 1px solid #aaa;
+  padding-left: 15px;
+  background-color: #fff;
+}
+.textbox2 {
+  margin-top: 29px;
+  padding: 15px 15px;
+  width: 60%;
+  border-radius: 22px;
+  box-sizing: border-box;
+  border: 0.5px solid #aaa;
+  padding-left: 15px;
+}
+.btnsubmit {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  border-radius: 22px;
+  text-align: center;
+  cursor: pointer;
+  background-color: #4b8cfb;
+  border: 1px solid #aaa;
+  color: #fff;
+  width: 5%;
+  padding: 7px 35px;
+  
+  box-sizing: content-box;
+  
+}
+.btnsubmit1{
+    padding-left: 22%;
+
+}
+.fileup {
+    margin-top: 29px;
+  width: 57%;
+  border: 0.5px solid #aaa;
+  padding: 10px 10px;
+  border-radius: 20px;
+  padding-left: 15px;
+}
+.mainbox{
+    padding-left: 25%;
+}

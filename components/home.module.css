@@ -1,0 +1,45 @@
+.textbox01 {
+ 
+  padding: 10px 10px;
+  width: 40%;
+  border-radius: 22px;
+
+  border: 0.5px solid #aaa;
+  padding-left: 15px;
+  background-color: #fff;
+}
+.input-container {
+  background-color: aqua;
+}
+.textbox02 {
+  margin-top: 29px;
+  padding: 10px 10px;
+  width: 40%;
+  border-radius: 22px;
+
+  border: 0.5px solid #aaa;
+  padding-left: 15px;
+}
+.subbtn01 {
+  margin-top: 40px;
+  margin-left: 22%;
+
+  border-radius: 22px;
+  text-align: center;
+  cursor: pointer;
+  background-color: #4b8cfb;
+  border: 1px solid #aaa;
+  color: #fff;
+  width: 5%;
+  padding: 7px 35px;
+
+  box-sizing: content-box;
+}
+.logbox {
+  padding-left: 25%;
+}
+.login1{
+    color: rgb(0, 217, 255);
+    margin-left: 22%;
+    margin-top: 15%;
+}

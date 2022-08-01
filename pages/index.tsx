@@ -1,9 +1,17 @@
-import { Panel, Text } from '@bigcommerce/big-design';
+import React from 'react';
+import Video from "../components/video/Video";
+import Home from "../components/Home"
 
+
+import { Panel, Text } from '@bigcommerce/big-design';
 const Index = () => (
-    <Panel header="Homepage" margin="xxLarge">
-        <Text>Hello world</Text>
-    </Panel>
+    <div>
+    
+  
+   <Home/>
+   
+    
+   </div>
 );
 
 export default Index;
